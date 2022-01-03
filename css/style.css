@@ -1,0 +1,44 @@
+body{
+    background-color: rgba(240, 212, 179, 0.644);
+    
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: cover;
+    margin-right: auto;
+    background-attachment: scroll;
+    
+}
+h1{
+    text-align: center;
+    color:rgb(6, 6, 104);
+    background-color: rgb(117, 201, 109);
+
+}
+h3{
+    text-align: center;
+    color: rgba(9, 240, 240, 0.5)
+    
+}
+form{
+    text-align: center;
+}
+
+footer{
+    background-color: gold;
+    text-align: center;
+    height: 50px;
+}  
+a:link, a:visited {
+    background-color: rgb(241, 13, 13);
+    color: rgba(77, 70, 70, 0.863);
+    padding: 7px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}   
+a:hover, a:active {
+    background-color: rgb(206, 174, 230);  
+}  
+p{
+    text-align: center;
+}
